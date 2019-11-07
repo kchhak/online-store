@@ -12,4 +12,4 @@ const CategoryType = new GraphQLObjectType({
   })
 });
 
-modulle.exports = categoryType;
+module.exports = CategoryType;
